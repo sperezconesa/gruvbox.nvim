@@ -251,7 +251,6 @@ local base_group = {
   SpecialChar = "GruvboxRed",
   Tag = "GruvboxAquaBold",
   Delimiter = "GruvboxFg3",
-  Comment = { fg = gray, gui = styles.italic_comments },
   Debug = "GruvboxRed",
   Underlined = { fg = blue, gui = styles.underline },
   Bold = { gui = styles.bold },
